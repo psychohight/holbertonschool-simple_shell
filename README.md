@@ -154,4 +154,4 @@ ubunto@ubuntu:~/Bureau/simple_shell$
 No known Bugs.
 
 ## AUTHOR 
-neia , enzo
+Neia Santos Nascimento , Enzo De Freitas
